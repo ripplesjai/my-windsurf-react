@@ -1,5 +1,7 @@
 # React + Vite
   
+  [![CI/CD Pipeline](https://github.com/ripplesjai/my-windsurf-react/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ripplesjai/my-windsurf-react/actions/workflows/ci.yml)
+  
   This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
   
   Currently, two official plugins are available:
