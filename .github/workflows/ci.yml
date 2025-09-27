@@ -74,7 +74,7 @@ jobs:
           if [ -f dist/index.html ]; then cp dist/index.html dist/404.html; fi
 
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: dist
 
